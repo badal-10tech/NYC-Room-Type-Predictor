@@ -1,4 +1,4 @@
-const API_BASE = window.location.origin;
+const API_BASE = "https://nyc-room-type-predictor-yu54.onrender.com";
 
 const form = document.getElementById("predictionForm");
 const predictBtn = document.getElementById("predictBtn");
